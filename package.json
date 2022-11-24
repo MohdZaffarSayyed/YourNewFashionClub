@@ -1,10 +1,10 @@
 {
     "name": "newfashionclub",
     "version": "1.0.0",
-    "engines": {
+
+      "engines": {
     "node": "18.x"
-  }
-    "description": "",
+  }"description": "",
     "main": "backend/server.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
@@ -28,5 +28,9 @@
         "nodemon": "^2.0.15",
         "stripe": "^8.174.0",
         "validator": "^13.7.0"
-    }
+    },
+      "engines": {
+    "node": "18.x"
+  }
+    
 }
