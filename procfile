@@ -1,1 +1,2 @@
+web: node backend/server.js
 heroku ps:scale web=1
